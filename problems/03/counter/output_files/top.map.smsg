@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at slave_spi.v(11): always construct contains both blocking and non-blocking assignments File: /home/aleksei/local_edu/base/fpga/task_3/counter/slave_spi.v Line: 11
